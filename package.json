@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/AGCusick/running-app",
+  "homepage": "https://github.com/AGCusick/running-app.git",
   "name": "package",
   "version": "0.1.0",
   "build_staging": "PUBLIC_URL=https://www.3-2run.com/ react-scripts build",
@@ -23,7 +23,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-
   },
   "eslintConfig": {
     "extends": [
