@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/AGCusick/running-app.git",
+  "homepage": "http://github.com/AGCusick/running-app",
   "name": "package",
   "version": "0.1.0",
   "build_staging": "PUBLIC_URL=https://www.3-2run.com/ react-scripts build",
