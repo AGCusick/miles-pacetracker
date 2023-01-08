@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AGCusick/running/static/css/main.f2600210.css",
-    "main.js": "/AGCusick/running/static/js/main.05aa4c01.js",
-    "static/js/787.a7d21fdd.chunk.js": "/AGCusick/running/static/js/787.a7d21fdd.chunk.js",
-    "index.html": "/AGCusick/running/index.html",
-    "main.f2600210.css.map": "/AGCusick/running/static/css/main.f2600210.css.map",
-    "main.05aa4c01.js.map": "/AGCusick/running/static/js/main.05aa4c01.js.map",
-    "787.a7d21fdd.chunk.js.map": "/AGCusick/running/static/js/787.a7d21fdd.chunk.js.map"
+    "main.css": "/miles-pacetracker/static/css/main.f2600210.css",
+    "main.js": "/miles-pacetracker/static/js/main.58adc231.js",
+    "static/js/787.a7d21fdd.chunk.js": "/miles-pacetracker/static/js/787.a7d21fdd.chunk.js",
+    "index.html": "/miles-pacetracker/index.html",
+    "main.f2600210.css.map": "/miles-pacetracker/static/css/main.f2600210.css.map",
+    "main.58adc231.js.map": "/miles-pacetracker/static/js/main.58adc231.js.map",
+    "787.a7d21fdd.chunk.js.map": "/miles-pacetracker/static/js/787.a7d21fdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2600210.css",
-    "static/js/main.05aa4c01.js"
+    "static/js/main.58adc231.js"
   ]
 }
