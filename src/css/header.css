@@ -1,0 +1,44 @@
+
+.header-style{
+    text-align: center;
+}
+
+.header-title{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header-style ul li{
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    width: 30%;
+}
+
+.header-style ul{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 40%;
+    height: 30%;
+}
+.hide-menu-container{
+    display: none;
+}
+
+.burger-btn p{
+    border-bottom: 3px solid black;
+    width: 50px;
+}
+
+.burger-btn{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: none;
+    background-color: white;
+}
+
+.burger-btn:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.goal-style{
+    position: relative;
+    width: 60%;
+    margin:0 auto;
+    text-align: center;
+}
+
+.goal-input-style{
+    border-radius: 30px;
+}
+
+@media screen and (max-width: 800px) {
+    .progress-output{
+        position: relative;
+        margin: 0 auto;
+    }
+}

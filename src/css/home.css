@@ -1,0 +1,46 @@
+body{
+    background-color: #f6f3f1;
+}
+.home-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.track-miles-link{
+    background-color: rgb(55, 218, 163);
+    position: relative;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+    z-index: -2;
+    padding: 1% 0;
+}
+
+
+.get-weather{
+    position: relative;
+    background-color: #ff414e;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin-left: 150px;
+    float: left;
+    margin-top: -10px;
+    /* z-index: -1; */
+    padding: 1% 0;
+}
+
+
+.get-pace{
+    background-color: rgb(216, 216, 135);
+    position: relative;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    left: 150px;
+    margin-left: 160px;
+    margin-top: 80px;
+
+}
+

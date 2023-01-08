@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(245, 244, 235);
+}
+.weather-container{
+    background: rgb(216, 216, 135);
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.toggle-corf{
+    background-color: #ff414e;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 30px;   
+}
+
+.toggle-corf:hover{
+    cursor: pointer;
+    background-color: #fa6c76;
+}
+
+.icon{
+   width: 40px;
+   height: 40px;
+}
+
+.icon{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(245, 244, 235);
+    border-radius: 30px;
+
+    box-shadow: 4px 4px 4px rgb(43, 42, 42);
+}
+
+.api-link-back{
+    position: relative;
+    width: 40px;
+    float: right;
+}

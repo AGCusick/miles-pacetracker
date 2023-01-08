@@ -1,0 +1,49 @@
+.daily-miles{
+    width: 20%;
+    position: relative;
+    margin: 0 auto;
+    line-height: 20px;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.daily-miles h2{
+    position: absolute;
+    top: -20px;
+    right: 0%;
+}
+
+.input-style{
+    position: absolute;
+    border-radius: 30px;
+    left: 30%;
+}
+
+.progress-output{
+  position: fixed;
+  left: 70%;
+  top: 55%;
+}
+
+.goal-achieved{
+    color: rgb(98, 194, 98);
+}
+
+.reset-miles{
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(55, 218, 163);
+    height: 30px;
+    width: 100px;
+}
+
+.reset-miles:hover{
+    background-color: rgb(126, 231, 196);
+    cursor: pointer;
+  }
+
+  @media screen and (max-width: 1388px) {
+    .daily-miles{
+        width: 35%;
+    }
+  }

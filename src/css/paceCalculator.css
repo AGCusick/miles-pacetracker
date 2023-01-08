@@ -1,0 +1,26 @@
+.pace-container{
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.reset-btn{
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(55, 218, 163);
+    height: 30px;
+    width: 100px;
+}
+
+.reset-btn:hover{
+  background-color: rgb(126, 231, 196);
+  cursor: pointer;
+}
+
+.time{
+  border-radius: 30px;
+}
+
