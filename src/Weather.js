@@ -53,10 +53,10 @@ const Weather = () => {
                   setMetricGust(response.data.current.gust_kph);
                   setMetricPrecip(response.data.current.precip_mm);
                   if (response.data.current.condition.icon.includes('day')) {
-                        setIcon(<img src={`/assets/weather/64x64/day/${pic}`}></img>
+                        setIcon(<img src={`./assets/weather/64x64/day/${pic}`}></img>
                         )
                   } else {
-                        setIcon(<img src={`/assets/weather/64x64/night/${pic}`}></img>)
+                        setIcon(<img src={`./assets/weather/64x64/night/${pic}`}></img>)
 
                   }
 

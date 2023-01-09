@@ -68,7 +68,7 @@ const MilesForm = ({ goal, milesToGo, setMilesToGo }) => {
     const GoalAchieved = () => {
         return (
             <div>
-                <h1 className="goal-achieved">{`Goal Achieved!: ${milesToGo}`}</h1>
+                <h1 className="goal-achieved">{`Goal Achieved!: ${milesToGo *-1}`}</h1>
             </div>
         )
     }
