@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/miles-pacetracker">
       <div>
          
       <Header/>
