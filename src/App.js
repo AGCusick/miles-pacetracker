@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     
-    <BrowserRouter basename="/miles-pacetracker">
+    <BrowserRouter basename="/miles-pacetracker/">
       <div>
          
       <Header/>
