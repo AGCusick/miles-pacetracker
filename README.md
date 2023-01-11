@@ -1,1 +1,1 @@
-
+This app gives you the current weather in your location and calculates your running pace (mintues/mile) and also allows you to set a running goal and keep track of your progress throughout the week. I made this app with react. 
